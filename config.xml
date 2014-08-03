@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id = "com.gemstep.Ugh"
+	version   = "0.0.1" 
+	versionCode ="1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Ugh</name>
+
+    <description> Understanding GitHub and PhoneGapBuild interaction</description>
+	<icon src="icon.png" />
+	<preference name="permissions" value="none"/>
+
+    <author href="www.gemstep.com" email="Ugh.Feedback@gemstep.com">
+       Dave Moore 
+    </author>
+
+</widget>
